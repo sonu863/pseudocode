@@ -1,0 +1,4 @@
+DECLARE VariableCountry : String
+OUTPUT "Enter your Country"
+INPUT VariableCountry
+OUTPUT "your coutry is", VariableCountry

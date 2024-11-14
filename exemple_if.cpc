@@ -1,0 +1,11 @@
+DECLARE Country : STRING
+
+OUTPUT "What is you country?"
+INPUT Country
+If Country = "nepal" OR Country = "Nepal" THEN
+
+   OUTPUT "you are nepali"
+ElSE
+    OUTPUT "Welcome to Nepal" 
+
+ENDIF

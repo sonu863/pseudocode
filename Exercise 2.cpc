@@ -1,0 +1,9 @@
+DECLARE Variableage : INTEGER
+ 
+ OUTPUT "Enter Your Age"
+ INPUT Age
+If Age >= 18 THEN
+    OUTPUT "Loading game.."
+ElSE
+    OUTPUT "AllOW"
+ENDIF

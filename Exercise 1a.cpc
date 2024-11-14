@@ -1,0 +1,7 @@
+DECLAR"VARIABLE"
+DECLAR" Amount IN USD, AMOUNT IN EURO, ExchangeRate"
+OUTPUT Exchange Rate=0.85
+PRINT" Enter the amount in USD"
+INPUT" Amount in USD"
+OUTPUT Amount in Euro= Amount in USD* Exchange Rate
+PRINT= The equvialent amount in euro: ",amontineuro
